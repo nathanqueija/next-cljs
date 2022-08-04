@@ -2,6 +2,9 @@
   "name": "next-cljs",
   "version": "0.0.1",
   "private": true,
+  "scripts": {
+    "watch": "shadow-cljs watch site"
+  },
   "devDependencies": {
     "shadow-cljs": "2.6.10"
   },

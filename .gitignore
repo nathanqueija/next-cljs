@@ -10,11 +10,12 @@ pom.xml.asc
 *.iml
 *.jar
 *.log
+.lsp
 .shadow-cljs
 .idea
 .lein-*
 .nrepl-*
 .DS_Store
-
+.clj-kondo
 .hgignore
 .hg/

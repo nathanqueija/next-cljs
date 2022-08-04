@@ -27,7 +27,7 @@
           ;; Y U NO DATA THIS!
           content
           (str
-           "import \"../src/cljs/shadow.cljs.devtools.client.browser.js\""
+           "import \"../src/cljs/demo.core.js\""
            "\nexport {" page-var " as default} from \"../src/cljs/" page-ns ".js\";")
 
           out-dir

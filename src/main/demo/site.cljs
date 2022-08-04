@@ -12,7 +12,7 @@
    [:div
     [:h1 "Hi people!"]
 
-    [:p "Welcome to your new next.js site. 5"]
+    [:p "Welcome to your new next.js site."]
     [:p "Now go build something great with ClojureScript."]
 
     [:> Link {:href "/page-2"} [:a "goto page-2"]]]))
